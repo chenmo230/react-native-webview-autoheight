@@ -18,6 +18,7 @@ import {
   WebView,
   Platform,
 } from 'react-native';
+import WebView from "react-native-webview"
 import PropTypes from "prop-types";
 
 const injectedScript = function() {

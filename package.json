@@ -17,6 +17,10 @@
     "auto",
     "height"
   ],
+
+  "dependencies": {
+    "react-native-webview": "^7.4.3",
+  },
   "author": "Elton Jain",
   "license": "ISC",
   "bugs": {
